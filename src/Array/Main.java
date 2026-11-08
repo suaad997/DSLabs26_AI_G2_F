@@ -12,7 +12,7 @@ public class Main {
 
        arr.input(num);
       arr.Traversal(num);
-        //arr.reverseTraversal(numbers);
+        arr.reverseTraversal(num);
 
 
         //int []num=new int[5];
